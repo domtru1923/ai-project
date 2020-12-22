@@ -5,7 +5,7 @@ Final project for the Building AI course
 
 ## Summary
 
-For business purposes, it is important to have good descriptions of your products. If you have a lot of products and various customers it can be difficult and time consuming to prepare suitable descriptions to your website. This solution will be a fast and modern alternative to copywriters.
+For business purposes, it is important to have good descriptions of your products for various customers. It can be difficult and time-consuming to prepare suitable descriptions. This solution will be a fast and modern alternative to copywriters.
 
 ## Background
 
